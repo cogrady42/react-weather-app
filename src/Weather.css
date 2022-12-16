@@ -64,12 +64,12 @@ body {
     line-height: 1;
   }
   
-  .Weather .temperature a {
+  .Weather .unit {
     font-size: 20px;
     vertical-align: 57px;
   }
   
-  .Weather a {
+  .Weather .unit {
     color: #357376;
     transition: all 200ms ease-in-out;
     text-decoration: none;

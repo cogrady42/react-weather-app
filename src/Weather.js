@@ -50,8 +50,8 @@ export default function Weather() {
               <div className="col">
                 <div className="temperature">
                   <span> {weatherData.temperature}</span>
-                  <a href="">°C|</a>
-                  <a href="">°F </a>
+                  <span className="unit">°C|</span>
+                  <span className="unit">°F </span>
                 </div>
               </div>
               <div className="col">

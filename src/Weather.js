@@ -65,7 +65,15 @@ export default function Weather() {
             <h2>{weatherData.description}</h2>
           </div>
         </div>
+        <div className="sourceLink">
+        <a href="https://github.com/cogrady42/react-weather-app">
+           Open-source Code  
+        </a>
+        <span>
+            {""} by Cecilia O'Grady
+        </span>
       </div>
+     </div>
     </div>
   );
 }

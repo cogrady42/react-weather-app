@@ -92,3 +92,9 @@ body {
   .Weather h2 {
     font-size: 15px;
   }
+
+  .sourceLink {
+font-size: 15px;
+text-align: left;
+
+  }
